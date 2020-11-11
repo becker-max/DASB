@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587027737312.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1501784155",
+    "id" : "D6981B75",
+    "lastKnownWriteTime" : 1590607605,
+    "last_content_update" : 1592485446008,
+    "path" : "C:/HSLU/DASB/FIFA_Project/ShinyFifaApp/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "701,18",
+        "scrollLine" : "688"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
